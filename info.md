@@ -1,0 +1,28 @@
+### prices:
+- pachet standard:
+	- servici:
+		- curatare scaune fata
+		- curatare bancheta
+	- pret: 150
+- pachet plus:
+	- servicii:
+		- curatare scaune si bancheta
+		- curatare protbagaj
+		- curatare mocheta
+	- pret: 200
+- curatare canapele:
+	- 2 locuri: 70
+	- 3 locuri: 80
+	- 4 locuri: 95
+	- 5 locuri: 110
+- curatare diverse:
+	- scaun cu spatar: 20
+	- fotoliu: 50
+	- saltea de pat dubla: 100
+	- covoare: 10/mp
+	- degresat geamuri auto: 30
+- curatare elemente auto:
+	- scaune fata: 90
+	- bancheta spate: 90
+	- podeaua si portbagajul: 70
+	- plafon: 70(dupa examinare)
